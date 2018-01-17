@@ -1,0 +1,11 @@
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\bin\Debug\netcoreapp2.0\WebApiWithTest.deps.json
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\bin\Debug\netcoreapp2.0\WebApiWithTest.runtimeconfig.json
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\bin\Debug\netcoreapp2.0\WebApiWithTest.runtimeconfig.dev.json
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\bin\Debug\netcoreapp2.0\WebApiWithTest.dll
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\bin\Debug\netcoreapp2.0\WebApiWithTest.pdb
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.csprojResolveAssemblyReference.cache
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.csproj.CoreCompileInputs.cache
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.AssemblyInfoInputs.cache
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.AssemblyInfo.cs
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.dll
+C:\aspnetcoreapp\xunit\ControllerTest\WebApiWithTest\WebApiWithTest\obj\Debug\netcoreapp2.0\WebApiWithTest.pdb
